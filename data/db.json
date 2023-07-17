@@ -1,0 +1,28 @@
+{
+  "details": [
+    {
+      "name": "Ashith Shankar Raj",
+      "password": "5",
+      "email": "aryanshankarraj07@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Tharun",
+      "password": "987654321",
+      "email": "tharun7@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Aryan",
+      "password": "77777",
+      "email": "aryanshankarraj07@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "ar",
+      "password": "3",
+      "email": "sv",
+      "id": 4
+    }
+  ]
+}
